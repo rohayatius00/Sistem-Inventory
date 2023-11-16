@@ -1,0 +1,13 @@
+{
+    "css": [
+        "css/dataTables.bootstrap4.css",
+        "css/dataTables.bootstrap4.min.css"
+    ],
+    "js": [
+        "js/dataTables.bootstrap4.js",
+        "js/dataTables.bootstrap4.min.js"
+    ],
+    "src-repo": "http://github.com/DataTables/DataTablesSrc",
+    "last-sync": "78fd905c2752074cc2423f34b5e29f4ccd1d9b18",
+    "last-tag": "1.10.19"
+}
